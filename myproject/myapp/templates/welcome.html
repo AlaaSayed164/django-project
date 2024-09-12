@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/styles_welcome.css' %}">
+</head>
+<body class="background_welcome">
+    <h4 class="Header_welcome">Welcome to House Price Prediction System</h4>
+    
+    <div class="button-container_welcome">
+        <form action="predict">
+            <input class="button_welcome"  type="submit" value="predict">
+        </form>
+        <br>
+        <form action="visualization">
+            <input class="button_welcome" type="submit" value="visualization">
+        </form>
+    </div>
+   
+</body>
+</html>

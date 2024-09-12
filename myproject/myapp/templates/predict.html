@@ -1,0 +1,59 @@
+<!-- templates/predict.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    
+    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap-3.4.1/css/bootstrap.min.css"> -->
+    <!-- <script scr="https://ajax.googleapis.com/ajax/libs/jqurery.min.js"></script>
+    <script scr="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/bootstrap.min.js"></script> -->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>House Price Prediction</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/styles_predict.css' %}">
+</head>
+<body>
+    <h2>Please enter the following values:</h2>
+    <div class="form-container">
+        
+        <form  method="POST">
+            <div class="form-group">
+                <label>Avg. Area Income:</label>
+                <input type="text" name="income" value="{{ income }}" required>
+            </div>
+            <div class="form-group">
+                <label>Avg. Area House Age:</label>
+                <input type="text" name="house_age" value="{{ house_age }}" required>
+            </div>
+            <div class="form-group">
+                <label>Avg. Area Number of Rooms:</label>
+                <input type="text" name="rooms" value="{{ rooms }}" required>
+            </div>
+            <div class="form-group">
+                <label>Avg. Area Number of Bedrooms:</label>
+                <input type="text" name="bedrooms" value="{{ bedrooms }}" required>
+            </div>
+            <div class="form-group">
+                <label for="central_air">Do you have Central Air?</label>
+                <select name="central_air" id="central_air">
+                    <option value="yes">Yes</option>
+                    <option value="no">No</option>
+                </select>
+            </div>
+
+            <form action="" method="POST">
+                {% csrf_token %}
+                <!-- your form inputs -->
+                <button type="submit" class="btn-black">Predict</button>
+            </form>
+
+            {% if predicted_price %}
+            <h3>Predicted House Price: {{ predicted_price }}</h3>
+            {% endif %}
+        
+
+        </form>
+    </div>
+</body>
+</html>
