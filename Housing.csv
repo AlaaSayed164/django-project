@@ -1,0 +1,1091 @@
+price,area,bedrooms,bathrooms,House Age,hotwaterheating,airconditioning,furnishingstatus,Address
+13300000,7420,4,2,3,no,yes,fully furnished,"208 Michael Ferry Apt. 674
+Laurabury, NE 37010-5101"
+12250000,9960,,2,2,no,no,semi-furnished,"9127 Elizabeth Stravenue
+Danieltown, WI 06482-3489"
+8750000,4320,,1,2,yes,no,semi-furnished,"030 Larry Park Suite 665
+Thomashaven, HI 87941-5197"
+9100000,6600,4,2,2,no,yes,empty,"064 Hayley Unions
+Nicholsborough, HI 44161-1887"
+12215000,7500,4,2,2,no,yes,fully furnished,"USS Barnett
+FPO AP 44820"
+11410000,7420,4,1,2,no,yes,fully furnished,"USNS Raymond
+FPO AE 09386"
+10850000,7500,,3,1,no,yes,semi-furnished,"06039 Jennifer Islands Apt. 443
+Tracyport, KS 16077"
+10150000,8580,4,3,4,no,yes,semi-furnished,"4759 Daniel Shoals Suite 442
+Nguyenburgh, CO 20247"
+10150000,16200,5,3,2,no,no,empty,"972 Joyce Viaduct
+Lake William, TN 17778-6483"
+9870000,8100,4,1,2,no,yes,fully furnished,"USS Gilbert
+FPO AA 20957"
+9800000,5750,,2,4,no,yes,empty,"Unit 9446 Box 0958
+DPO AE 97025"
+9800000,13200,,1,2,no,yes,fully furnished,"6368 John Motorway Suite 700
+Janetbury, NM 26854"
+9681000,6000,4,3,2,yes,no,semi-furnished,"911 Castillo Park Apt. 717
+Davisborough, PW 78603"
+9310000,6550,4,2,2,no,yes,semi-furnished,"209 Natasha Stream Suite 961
+Huffmanland, NE 52457"
+9240000,3500,4,2,2,yes,no,fully furnished,"829 Welch Track Apt. 992
+North John, AR 26532-5136"
+9240000,7800,,2,2,no,no,semi-furnished,"PSC 5330, Box 4420
+APO AP 08302"
+9100000,6000,4,1,2,no,no,semi-furnished,"2278 Shannon View
+North Carriemouth, NM 84617"
+12250000,8960,4,4,4,no,yes,fully furnished,"188 Johnson Views Suite 079
+Lake Kathleen, CA 48958"
+8960000,8500,,2,4,no,yes,fully furnished,"5498 Rachel Locks
+New Gregoryshire, PW 54755"
+8890000,4600,,2,2,no,yes,fully furnished,"Unit 7424 Box 2786
+DPO AE 71255"
+8855000,6420,,2,2,no,yes,semi-furnished,"19696 Benjamin Cape
+Stephentown, ME 36952-4733"
+8680000,7155,,2,1,no,yes,empty,"USNS Brown
+FPO AP 85833"
+8645000,8050,3,1,1,no,yes,fully furnished,"95198 Ortiz Key
+Port Sara, TN 24541-2855"
+8645000,4560,3,2,2,no,yes,fully furnished,"9003 Jay Plains Suite 838
+Lake Elizabeth, IN 90622-0804"
+8575000,8800,3,2,2,no,yes,fully furnished,"24282 Paul Valley
+West Perry, MI 03169-5806"
+8540000,6540,4,2,2,no,yes,fully furnished,"61938 Brady Falls
+Lewisfort, DE 61227"
+8463000,6000,3,2,4,no,yes,semi-furnished,"3599 Ramirez Springs
+Jacksonhaven, AZ 72798"
+8400000,8875,3,1,1,no,no,semi-furnished,"073 Christopher Falls Suite 882
+West Cynthia, MA 89075-2814"
+8400000,7950,5,2,2,yes,no,empty,"6531 Chase Prairie Apt. 245
+Susanshire, MN 22365"
+8400000,5500,4,2,2,no,yes,semi-furnished,"17124 Johnson Squares
+Lake Robertfurt, AL 61811-3832"
+8400000,7475,3,2,4,no,yes,empty,"1359 Mitchell Vista
+Courtneyfort, NY 93065-7224"
+8400000,7000,3,1,4,no,yes,semi-furnished,"4343 Joshua Lake Suite 096
+Pierceview, NV 62614-9110"
+8295000,4880,4,2,2,no,yes,fully furnished,"0057 Jacob Coves Apt. 932
+Lake Emily, VA 39465-6041"
+8190000,5960,3,3,2,no,no,empty,"039 Jordan Pike
+Emilyville, ID 27442"
+8120000,6840,5,1,2,no,yes,fully furnished,"66338 Novak Curve Suite 628
+Taylorborough, OK 87142-6766"
+8080940,7000,3,2,4,no,yes,fully furnished,"7167 Angela Park Suite 013
+Morrishaven, NH 66937-4811"
+8043000,7482,3,2,3,yes,no,fully furnished,"34964 Sara Fields Apt. 584
+Port Raymondville, MO 63585"
+7980000,9000,4,2,4,no,yes,fully furnished,"7585 Lynn Loop
+East Judy, WV 73336"
+7962500,6000,3,1,4,no,yes,empty,"Unit 1388 Box 9350
+DPO AP 70848"
+7910000,6000,4,2,4,no,yes,semi-furnished,"9932 Eric Circles
+Lake Martha, WY 34611-6127"
+7875000,6550,3,1,2,no,yes,fully furnished,"7896 Walker Spring
+Loriport, MH 72956"
+7840000,6360,3,2,4,no,yes,fully furnished,"549 Darren Plaza
+Lake Kevin, UT 27155"
+7700000,6480,3,2,4,no,yes,empty,"90634 Michelle Valleys
+North Victoria, WV 99370"
+7700000,6000,4,2,4,no,no,semi-furnished,"580 Lara Neck Apt. 541
+Davidsonstad, ID 34638-9802"
+7560000,6000,4,2,4,no,yes,fully furnished,"43087 Jerome Field
+West Deborah, SD 49213"
+7560000,6000,3,2,3,no,yes,semi-furnished,"71956 Jenkins Fall
+Brooketown, PW 67485-0764"
+7525000,6000,3,2,4,no,yes,fully furnished,"8034 Pierce Prairie Suite 727
+Devonfurt, NE 33104-8027"
+7490000,6600,3,1,4,no,yes,fully furnished,"Unit 8108 Box 5159
+DPO AP 04678"
+7455000,4300,3,2,2,no,no,empty,"08639 Garcia Port
+Anthonybury, CT 17971"
+7420000,7440,3,2,1,no,yes,semi-furnished,"91863 Curtis Point
+New Richard, AK 99996-7554"
+7420000,7440,3,2,4,no,no,empty,"03819 Lee Junction Suite 046
+Mooneyborough, WA 19656"
+7420000,6325,3,1,4,no,yes,empty,"7796 Joseph Burg
+Danielsside, RI 70370"
+7350000,6000,4,2,4,no,yes,fully furnished,"173 Mendoza Land
+West John, NJ 57690"
+7350000,5150,3,2,4,no,yes,semi-furnished,"3288 Lee Pass
+South Julieton, PW 02759-4964"
+7350000,6000,3,2,2,no,yes,semi-furnished,"86908 Marshall Port Suite 252
+Scotttown, NM 69143"
+7350000,6000,3,1,2,no,yes,empty,"951 Bryant Dale Suite 735
+Lake Jacqueline, NH 95266"
+7343000,11440,4,1,2,no,no,semi-furnished,"00301 Bradshaw Avenue Suite 833
+Suzannefurt, IN 00654-8754"
+7245000,9000,4,2,4,no,yes,fully furnished,"84473 Ochoa Pines Apt. 808
+Jamesport, KY 70207-2955"
+7210000,7680,4,2,4,no,yes,semi-furnished,"13706 Morgan Turnpike Suite 378
+Hohaven, NC 42699"
+7210000,6000,3,2,4,no,yes,fully furnished,"4872 Delgado Ramp
+North James, IA 36544"
+7140000,6000,3,2,2,no,no,semi-furnished,"73202 Christopher Tunnel
+New Roberttown, MN 08925-1536"
+7070000,8880,2,1,1,no,yes,semi-furnished,"8781 Olivia Port Apt. 225
+Thompsonside, VT 22884"
+7070000,6240,4,2,2,no,yes,fully furnished,"PSC 9354, Box 0703
+APO AA 58696-1278"
+7035000,6360,4,2,3,no,yes,fully furnished,"271 Johnson Hills Apt. 001
+Mcculloughfurt, FM 70847"
+7000000,11175,3,1,1,no,yes,fully furnished,"122 Russo Neck
+South Kevin, KY 20712-5282"
+6930000,8880,3,2,2,no,yes,fully furnished,"85225 Christopher Inlet Apt. 627
+West Calebberg, KS 76460"
+6930000,13200,2,1,1,yes,no,fully furnished,"7125 Mullins Cliff
+Maryborough, WY 66971"
+6895000,7700,3,2,1,no,no,empty,"905 Lane Pines Suite 348
+Brownborough, DE 57196-3319"
+6860000,6000,3,1,1,no,yes,fully furnished,"61090 Griffith Ridges
+Craigstad, AK 28807-8602"
+6790000,12090,4,2,2,no,no,fully furnished,"270 Jennifer Loop Suite 343
+South Jesse, ND 60570-1483"
+6790000,4000,3,2,2,no,yes,semi-furnished,"10973 Clark Trafficway
+Meyersbury, LA 63237"
+6755000,6000,4,2,4,no,yes,empty,"91733 Baker Orchard
+South Kyle, KS 37301"
+6720000,5020,3,1,4,no,yes,empty,"024 William Course
+East Charlotteview, DE 69073-3104"
+6685000,6600,2,2,4,no,no,fully furnished,"PSC 4455, Box 3268
+APO AP 45454"
+6650000,4040,3,1,2,yes,no,fully furnished,"562 Brown Junction Suite 282
+Christopherborough, KS 20719"
+6650000,4260,4,2,2,yes,no,semi-furnished,"USCGC Thompson
+FPO AA 13237-3887"
+6650000,6420,3,2,3,no,yes,fully furnished,"65884 Johns Valley Apt. 621
+Ethanbury, NY 07783"
+6650000,6500,3,2,3,no,yes,fully furnished,"Unit 2139 Box 3667
+DPO AP 49517"
+6650000,5700,3,1,1,no,yes,fully furnished,"253 Golden Island
+East Donald, CT 91882"
+6650000,6000,3,2,3,no,yes,fully furnished,"4861 Steven Plains Suite 066
+Port Reginaland, MN 06152-7205"
+6629000,6000,3,1,2,yes,no,semi-furnished,"5255 Rebecca Junctions Suite 240
+Royshire, WI 85782-2398"
+6615000,4000,3,2,2,no,yes,semi-furnished,"2833 Townsend Cliffs
+New Tommy, MP 86130-3426"
+6615000,10500,3,2,1,no,yes,furnished,"708 Pena Ramp
+Terryburgh, CA 31572-1304"
+6580000,6000,3,2,4,no,yes,semi-furnished,"8030 Ruiz Dale
+Shermanchester, KY 56950-5684"
+6510000,3760,3,1,2,yes,no,semi-furnished,"Unit 3857 Box 9497
+DPO AE 92239"
+6510000,8250,3,2,3,no,yes,furnished,"042 Mitchell Mountains
+Adamsview, OR 44424"
+6510000,6670,3,1,3,no,no,empty,"07420 Victoria Trail Apt. 904
+Port Kevinbury, OR 86759"
+6475000,3960,3,1,1,no,no,semi-furnished,"38449 Shaw Glen
+Pattonside, TX 98415"
+6475000,7410,3,1,1,no,yes,empty,"82387 Hensley Bypass
+Danielmouth, ME 30791"
+6440000,8580,5,3,2,no,no,furnished,"02304 Brandon Stravenue Apt. 231
+Cordovabury, ID 36688"
+6440000,5000,3,1,2,no,yes,semi-furnished,"2124 Garcia Viaduct
+North Kellytown, DC 30864"
+6419000,6750,2,1,1,no,no,furnished,"646 Nicholas Mall Apt. 058
+East Danielle, OR 53708"
+6405000,4800,3,2,4,no,yes,furnished,"874 Laura Throughway Suite 350
+Port Michaelberg, PW 94284-9448"
+6300000,7200,3,2,1,no,yes,semi-furnished,"7373 Hart Brooks Apt. 168
+East Christianside, PR 72679-9159"
+6300000,6000,4,2,4,no,no,semi-furnished,"035 Mark Bridge
+West Craig, MT 78649"
+6300000,4100,3,2,3,no,yes,semi-furnished,"69600 Wilson Rue
+Elizabethland, PW 17767-2884"
+6300000,9000,3,1,1,no,no,furnished,"001 Steve Plaza
+Jessicastad, UT 25190"
+6300000,6400,3,1,1,no,yes,semi-furnished,"238 Anthony Drive
+Acostahaven, AS 62753-6637"
+6293000,6600,3,2,3,no,yes,empty,"01818 Wilson Spurs
+West Andreaton, SD 69568-7005"
+6265000,6000,4,1,3,no,no,empty,"95779 Walton Square
+Bakershire, PR 49599"
+6230000,6600,3,2,1,no,yes,empty,"124 Russell Mountains Apt. 591
+North Sharonfurt, OH 67836-4969"
+6230000,5500,3,1,3,no,no,empty,"73080 Veronica Turnpike Suite 991
+New Debra, VA 61246"
+6195000,5500,3,2,4,no,yes,semi-furnished,"106 Williams Well Apt. 657
+Samanthaview, PR 87811"
+6195000,6350,3,2,3,no,yes,furnished,"Unit 3405 Box 4348
+DPO AP 68816-2990"
+6195000,5500,3,2,1,no,no,furnished,"4007 Kimberly Crossing
+Nathanielview, NC 72093-8287"
+6160000,4500,3,1,4,no,yes,empty,"Unit 5889 Box 7282
+DPO AE 41177-0399"
+6160000,5450,4,2,1,no,yes,semi-furnished,"075 Andrea Green Suite 201
+Johnshire, KS 50389"
+6125000,6420,3,1,3,no,no,empty,"6811 Spears Trail Suite 081
+East Troy, MS 43910"
+6107500,3240,4,1,3,no,no,semi-furnished,"69401 Danielle Motorway
+New Dennis, IL 53971"
+6090000,6615,4,2,2,yes,no,semi-furnished,"2276 Riley Flats Suite 975
+Johnmouth, NH 39983"
+6090000,6600,3,1,1,no,no,semi-furnished,"91111 Crane Spur
+Kathleenmouth, ME 43022-3191"
+6090000,8372,3,1,3,no,yes,empty,"744 Hill Ports
+Mooreside, MH 20945-2825"
+6083000,4300,6,2,2,no,no,furnished,"019 Lisa Village Apt. 379
+Maxwellmouth, DE 26176"
+6083000,9620,3,1,1,no,no,furnished,"50933 Barber Divide Suite 927
+Jacksonborough, NE 46696-1788"
+6020000,6800,2,1,1,no,no,furnished,"USS Harrington
+FPO AE 12326"
+6020000,8000,3,1,1,no,yes,semi-furnished,"246 Michele Lock Suite 093
+South Michellemouth, VI 62800"
+6020000,6900,3,2,1,no,no,empty,"356 Madeline Locks Apt. 115
+Kaitlinland, MS 49150-0243"
+5950000,3700,4,1,2,no,yes,furnished,"232 Allen Ridge
+West Jasonview, CT 93021"
+5950000,6420,3,1,1,no,yes,furnished,"5042 Ricky Road
+New Candice, MN 40661-8809"
+5950000,7020,3,1,1,no,yes,semi-furnished,"60860 Griffin Streets Apt. 040
+East Catherine, NH 18346"
+5950000,6540,3,1,1,no,no,furnished,"89002 Robert Square Suite 028
+Port Jennyside, CA 38546-6307"
+5950000,7231,3,1,2,no,yes,semi-furnished,"8533 Sparks Lodge
+New Kevin, GA 98179"
+5950000,6254,4,2,1,no,no,semi-furnished,"922 Mark Lodge
+Matthewton, ID 71131-3139"
+5950000,7320,4,2,2,no,no,furnished,"757 Sherri Shores Suite 744
+Jesusfurt, OK 73052-4985"
+5950000,6525,3,2,4,no,no,furnished,"PSC 8479, Box 0952
+APO AA 33741"
+5943000,15600,3,1,1,no,yes,semi-furnished,"5560 Michaela Spur Suite 730
+West Charlottefurt, PA 00463"
+5880000,7160,3,1,1,no,no,empty,"255 Sosa Pines Suite 751
+Wilsonview, MT 31615"
+5880000,6500,3,2,3,no,yes,empty,"156 Conner Lane
+East Brittany, MI 26733"
+5873000,5500,3,1,3,no,yes,furnished,"478 Vasquez Fort Apt. 346
+Aliciaside, NV 37124-6408"
+5873000,11460,3,1,3,no,no,semi-furnished,"67610 Smith Knolls
+Brendaberg, MA 55188-7972"
+5866000,4800,3,1,1,no,no,empty,"504 Robertson Streets
+Jamesshire, WA 56754"
+5810000,5828,4,1,4,no,no,semi-furnished,"777 Ross Crossroad
+Kaiserville, RI 24445"
+5810000,5200,3,1,3,no,yes,semi-furnished,"2418 Samantha Green Apt. 016
+Port Keithmouth, VT 62207-0408"
+5810000,4800,3,1,3,no,yes,empty,"95957 Tara Hill Suite 428
+Huntland, KS 57002-5552"
+5803000,7000,3,1,1,no,no,semi-furnished,"26906 Simmons Underpass Suite 444
+Port Tinashire, DC 13101"
+5775000,6000,3,2,4,no,yes,empty,"4930 James Flats
+New Shannon, NJ 75829-8040"
+5740000,5400,4,2,2,no,yes,empty,"78212 Turner Ville Apt. 217
+West Lauraberg, MP 47353-3682"
+5740000,4640,4,1,2,no,no,semi-furnished,"33410 Smith Summit
+West Kimberlyberg, CT 49785-3758"
+5740000,5000,3,1,3,no,yes,semi-furnished,"49940 Ramirez Mission Suite 136
+West Bryan, MD 95291-3904"
+5740000,6360,3,1,1,no,yes,furnished,"4746 Morgan Forge
+Diaztown, VT 79978"
+5740000,5800,3,2,4,no,yes,empty,"5808 Burton Viaduct
+North Nicholasport, CO 32392-1208"
+5652500,6660,4,2,2,no,no,semi-furnished,"8093 Lara Overpass Apt. 364
+Lake Brookebury, NV 30264"
+5600000,10500,4,2,2,no,no,semi-furnished,"249 Susan Canyon
+North Jessica, ID 13412"
+5600000,4800,5,2,3,yes,no,empty,"08091 Bush Course
+New Michael, RI 47524-7511"
+5600000,4700,4,1,2,no,yes,furnished,"PSC 6933, Box 3805
+APO AP 50576"
+5600000,5000,3,1,4,no,no,furnished,"6798 Smith Junctions
+Wolfeton, WY 86565-5079"
+5600000,10500,2,1,1,no,no,semi-furnished,"256 Sanchez Ports Apt. 057
+Johnmouth, PA 69763"
+5600000,5500,3,2,2,no,no,semi-furnished,"68672 Guzman Ridge
+Clinefurt, WI 04078-6179"
+5600000,6360,3,1,3,no,no,semi-furnished,"4447 Steven River Suite 076
+West Karenmouth, DC 61561-8593"
+5600000,6600,4,2,1,no,no,semi-furnished,"USCGC Hess
+FPO AE 29193"
+5600000,5136,3,1,2,no,yes,empty,"0617 Neal Curve
+South Daniel, AS 09326"
+5565000,4400,4,1,2,no,yes,semi-furnished,"412 Janet Radial Suite 115
+Kariview, NY 37073-8343"
+5565000,5400,5,1,2,no,yes,furnished,"9155 Kayla Station Suite 233
+Natalieborough, SC 99093-8399"
+5530000,3300,3,3,2,no,no,semi-furnished,"3062 Donald Inlet Suite 642
+West Matthew, GU 49340"
+5530000,3650,3,2,2,no,no,semi-furnished,"764 Timothy Turnpike
+North Audreymouth, TX 02395"
+5530000,6100,3,2,1,no,no,furnished,"862 Ryan Flat
+West Larryborough, WV 11517"
+5523000,6900,3,1,1,no,no,semi-furnished,"378 Evans Crest
+East Shelbystad, HI 23326"
+5495000,2817,4,2,2,no,no,furnished,"09897 Katherine Forge
+North Johnside, NC 01211"
+5495000,7980,3,1,1,no,no,semi-furnished,"2367 Noah Center
+North Dakotashire, PA 99619-0890"
+5460000,3150,3,2,1,no,yes,furnished,"19678 Noble Cove Suite 264
+South Elizabethfort, CO 13304-1647"
+5460000,6210,4,1,4,no,yes,furnished,"8803 Jackson Ramp
+South Thomasland, RI 09631-6361"
+5460000,6100,3,1,3,no,yes,semi-furnished,"87629 Shawn Crossing
+North William, MN 71601-6188"
+5460000,6600,4,2,2,no,no,semi-furnished,"2574 Shannon Alley
+South Fred, OR 64217"
+5425000,6825,3,1,1,no,yes,semi-furnished,"676 Jose Locks Apt. 415
+South Cynthia, SC 89264"
+5390000,6710,3,2,2,no,no,furnished,"4160 Martinez Bridge Apt. 713
+West Ann, MI 89447-0160"
+5383000,6450,3,2,1,yes,no,empty,"26847 Weber Ports Apt. 767
+North Robinton, FM 43014"
+5320000,7800,3,1,1,no,yes,empty,"PSC 8891, Box 6475
+APO AP 28726-5123"
+5285000,4600,2,2,1,no,yes,semi-furnished,"623 Jackson Road Apt. 492
+Sarahville, NM 19973"
+5250000,4260,4,1,2,no,yes,furnished,"0575 Edward Cliff
+Miguelmouth, NY 06408"
+5250000,6540,4,2,2,no,yes,semi-furnished,"6660 Alex Park
+Barkerfort, WY 52781"
+5250000,5500,3,2,1,no,no,semi-furnished,"176 Parker Grove Apt. 591
+Nicoleshire, MO 83183-5326"
+5250000,10269,3,1,1,no,no,semi-furnished,"203 Amy Ford Suite 158
+Kelleyfurt, LA 49990-9626"
+5250000,8400,3,1,2,no,yes,empty,"842 Jackson Parkway
+Angelabury, MI 68188-8699"
+5250000,5300,4,2,1,no,yes,empty,"5339 Charles Road Apt. 570
+East Angelicastad, PR 36295-7649"
+5250000,3800,3,1,2,no,no,empty,"0647 Ramirez Hill
+New Crystalport, AZ 33060"
+5250000,9800,4,2,2,no,no,semi-furnished,"4233 Chase Fields
+East Vanessabury, OR 85375-7861"
+5250000,8520,3,1,1,no,yes,furnished,"0606 Ricardo Drive
+Williamton, GU 79243"
+5243000,6050,3,1,1,no,no,semi-furnished,"14157 Jones Parkway Suite 319
+North Haley, AK 18534"
+5229000,7085,3,1,1,no,no,semi-furnished,"2579 Pamela Shoals
+North Christianhaven, TX 95259"
+5215000,3180,3,2,2,no,no,semi-furnished,"PSC 5171, Box 6452
+APO AA 44610-4655"
+5215000,4500,4,2,1,no,yes,semi-furnished,"23682 William Glens Apt. 920
+Lake Hollystad, CO 20067"
+5215000,7200,3,1,2,no,no,furnished,"32521 Martinez Highway
+Stephaniehaven, NY 78577"
+5145000,3410,3,1,2,no,yes,semi-furnished,"9109 Omar View Suite 461
+East Sarahfort, WI 02969"
+5145000,7980,3,1,1,no,no,semi-furnished,"5611 Chandler Mill
+East Brianfort, AK 51236-0093"
+5110000,3000,3,2,2,no,no,furnished,"PSC 5599, Box 5942
+APO AP 55563-1953"
+5110000,3000,3,1,2,no,no,empty,"2128 Shawna Orchard Suite 992
+New Melissabury, MN 22338"
+5110000,11410,2,1,2,no,no,furnished,"019 Moore Center Apt. 643
+West John, KY 54923"
+5110000,6100,3,1,1,no,yes,semi-furnished,"Unit 3192 Box 6415
+DPO AP 76779-7624"
+5075000,5720,2,1,2,no,yes,empty,"20185 Mary Crest
+South Reneeville, VI 91892"
+5040000,3540,2,1,1,no,no,semi-furnished,"18067 Williams Roads Suite 683
+South Christineton, CO 76227"
+5040000,7600,4,1,2,no,yes,furnished,"089 Wilson Forks Suite 185
+East Gina, PA 98785-6132"
+5040000,10700,3,1,2,no,no,semi-furnished,"9643 Oscar Valley
+North Richardstad, ME 14629-9980"
+5040000,6600,3,1,1,no,no,furnished,"46619 Morgan Squares
+Stevenfurt, FM 70548"
+5033000,4800,2,1,1,no,no,semi-furnished,"407 Silva Inlet Apt. 301
+East Carolmouth, SC 73414"
+5005000,8150,3,2,1,no,no,semi-furnished,"USCGC Friedman
+FPO AE 57606-0743"
+4970000,4410,4,3,2,no,no,semi-furnished,"038 Anderson Club Suite 485
+Richardsonfort, MA 22267"
+4970000,7686,3,1,1,yes,no,semi-furnished,"014 Shaun Gardens
+Lake Todd, HI 08110"
+4956000,2800,3,2,2,no,yes,semi-furnished,"2606 Stout Inlet
+Port Brenda, SC 59596-5906"
+4935000,5948,3,1,2,no,yes,semi-furnished,"94952 Hall Cliffs Suite 366
+West Jessica, MT 23902"
+4907000,4200,3,1,2,no,no,furnished,"8581 Johnson Ranch Apt. 905
+Jacquelinefurt, MH 08716-8228"
+4900000,4520,3,1,2,no,yes,semi-furnished,"089 Jessica Dale
+West Melissa, PW 59364"
+4900000,4095,3,1,2,no,yes,semi-furnished,"USNS Hamilton
+FPO AA 90003"
+4900000,4120,2,1,1,no,no,semi-furnished,"8016 Hicks Alley Apt. 735
+Nicoleside, WV 73615-4795"
+4900000,5400,4,1,2,no,no,semi-furnished,"04952 Michael Terrace Apt. 414
+Port Tammy, GA 56924-1868"
+4900000,4770,3,1,1,no,no,semi-furnished,"3890 Hunt Trail
+Davidhaven, OR 04793"
+4900000,6300,3,1,1,no,yes,semi-furnished,"8398 Sanchez Gateway Suite 937
+Mccoyburgh, PA 32814"
+4900000,5800,2,1,1,no,yes,semi-furnished,"67095 Jeffrey Islands Suite 573
+West Elizabeth, MI 33061-9433"
+4900000,3000,3,1,2,no,yes,semi-furnished,"31995 Moore Brook
+New Melissa, MO 19787"
+4900000,2970,3,1,3,no,no,semi-furnished,"Unit 5683 Box 5483
+DPO AA 78774-2982"
+4900000,6720,3,1,1,no,no,empty,"77194 Carlson Causeway Apt. 904
+West John, KY 70976"
+4900000,4646,3,1,2,no,no,semi-furnished,"73601 Donaldson Squares
+Port John, VI 73473"
+4900000,12900,3,1,1,no,no,furnished,"6864 Michelle Field Apt. 339
+Madisonmouth, KY 99033"
+4893000,3420,4,2,2,no,yes,semi-furnished,"35165 Haley Falls Suite 341
+South Elizabeth, VT 29143-4442"
+4893000,4995,4,2,1,no,no,semi-furnished,"54993 James Place Suite 797
+South Kenneth, CA 86457-1211"
+4865000,4350,2,1,1,no,no,empty,"6799 Downs Plaza
+Randallberg, NH 17910-5241"
+4830000,4160,3,1,3,no,no,empty,"79098 Brandon Island Suite 624
+Horneshire, MA 35281-8110"
+4830000,6040,3,1,1,no,no,semi-furnished,"8173 Rush Wells
+New Stephanie, MS 56356"
+4830000,6862,3,1,2,no,yes,furnished,"762 Corey Landing Suite 528
+Billymouth, AZ 48958"
+4830000,4815,2,1,1,no,yes,semi-furnished,"077 Laura Curve
+New Christopherview, AZ 15138"
+4795000,7000,3,1,2,no,no,empty,"5342 Dean Overpass
+Matthewville, MI 08613"
+4795000,8100,4,1,4,no,yes,semi-furnished,"469 William Shore Suite 726
+South Krystalchester, MP 47720"
+4767000,3420,4,2,2,no,no,semi-furnished,"566 Brown Grove Apt. 886
+Cardenasmouth, IN 87042-1285"
+4760000,9166,2,1,1,no,yes,semi-furnished,"017 Bowers Field
+Williamsstad, OK 15934-8122"
+4760000,6321,3,1,2,no,yes,furnished,"05946 Wong Spur
+Susanshire, NY 67746-2473"
+4760000,10240,2,1,1,no,yes,unfurnished,"9297 Cole Highway
+Patrickhaven, DC 02945-8988"
+4753000,6440,2,1,1,no,yes,semi-furnished,"88404 William Cape Apt. 249
+Dawsonhaven, MA 21219-3496"
+4690000,5170,3,1,4,no,yes,semi-furnished,"4896 Jennifer River Apt. 180
+Shafferberg, MN 77619-4214"
+4690000,6000,2,1,1,no,yes,furnished,"82014 Stanton Gardens Suite 664
+Lake Dawnborough, DC 86197-4191"
+4690000,3630,3,1,2,no,no,semi-furnished,"551 Macdonald Viaduct
+West Stephanie, TN 55360"
+4690000,9667,4,2,2,no,no,semi-furnished,"860 Thompson Skyway Suite 901
+Kimshire, AR 37353-5106"
+4690000,5400,2,1,2,no,no,semi-furnished,"5036 Peterson Throughway
+East Megan, GA 08456-4696"
+4690000,4320,3,1,1,no,no,semi-furnished,"Unit 5584 Box 2763
+DPO AE 40544"
+4655000,3745,3,1,2,no,no,furnished,"09437 Carolyn Mountain
+Knappview, CA 70608-7504"
+4620000,4160,3,1,1,no,yes,unfurnished,"5052 Chloe Lights Apt. 374
+North Scott, IA 81431"
+4620000,3880,3,2,2,no,no,semi-furnished,"8781 Robert Lakes Suite 880
+East Wendy, ID 51813"
+4620000,5680,3,1,2,no,yes,semi-furnished,"3440 Cannon Lakes
+Port Melaniehaven, WA 60324-0399"
+4620000,2870,2,1,2,no,no,semi-furnished,"0956 Isabella Lodge
+East Valeriefurt, CO 64441"
+4620000,5010,3,1,2,no,no,semi-furnished,"36736 Kristi Radial
+Port Carl, ID 35292-9269"
+4613000,4510,4,2,2,no,no,semi-furnished,"10492 Reed Track
+North Ericstad, IA 78774-8363"
+4585000,4000,3,1,2,no,no,furnished,"Unit 6269 Box 9041
+DPO AE 13073"
+4585000,3840,3,1,2,no,no,semi-furnished,"1486 Elizabeth Plains Apt. 235
+New Cynthia, MD 73729-5878"
+4550000,3760,3,1,1,no,no,semi-furnished,"239 Anna Locks Suite 853
+Lisaland, GA 31515-2260"
+4550000,3640,3,1,2,no,yes,furnished,"77610 Evan Field Apt. 712
+West Shannonland, WI 30751"
+4550000,2550,3,1,2,no,no,furnished,"11385 Thomas Ford
+New Karinaton, HI 01691-9923"
+4550000,5320,3,1,2,no,no,semi-furnished,"385 Barnes Lock Suite 561
+Lake Kellytown, NJ 74310"
+4550000,5360,3,1,2,no,no,unfurnished,"039 Chan Meadows
+South Amandahaven, TN 78068"
+4550000,3520,3,1,1,no,no,semi-furnished,"945 Schneider Villages Apt. 519
+West Brittneyburgh, ID 36371-1622"
+4550000,8400,4,1,4,no,no,unfurnished,"15288 Steven Extensions Suite 209
+Zacharybury, KS 87707-6205"
+4543000,4100,2,2,1,no,no,semi-furnished,"8559 Cooper Cove Suite 935
+Katherinemouth, NE 81147-6595"
+4543000,4990,4,2,2,no,no,furnished,"90043 White Lane Apt. 673
+Williamburgh, DE 67265"
+4515000,3510,3,1,3,no,no,semi-furnished,"40094 Yates Lodge Suite 008
+Fergusonborough, LA 87592-4342"
+4515000,3450,3,1,2,no,no,semi-furnished,"17853 Michael Motorway
+Danielfurt, MH 28095"
+4515000,9860,3,1,1,no,no,semi-furnished,"48466 Brown Port Apt. 116
+South Chelseatown, CO 28752"
+4515000,3520,2,1,2,no,no,furnished,"0205 Rose Crescent
+East Ritaside, MD 10967"
+4480000,4510,4,1,2,no,yes,semi-furnished,"18941 Ray Ports
+East Nicoleland, OR 67363"
+4480000,5885,2,1,1,no,yes,unfurnished,"1515 Watson Fort
+Christopherberg, MP 90562"
+4480000,4000,3,1,2,no,no,furnished,"170 Smith Wall
+South Christopherhaven, AZ 87521"
+4480000,8250,3,1,1,no,no,furnished,"064 Kaufman River
+Danielburgh, CO 09090"
+4480000,4040,3,1,2,no,no,semi-furnished,"295 Angela Harbors
+East Patriciaburgh, GA 95388"
+4473000,6360,2,1,1,no,yes,furnished,"950 Luis Avenue Suite 364
+West Nicole, OR 03658-3559"
+4473000,3162,3,1,2,no,yes,furnished,"27945 Clark Tunnel
+Kleinmouth, NV 19751-3095"
+4473000,3510,3,1,2,no,no,semi-furnished,"6163 Michael Orchard
+Gallagherborough, GA 48395"
+4445000,3750,2,1,1,no,no,semi-furnished,"4158 Drew Plains Apt. 975
+Ericaview, MP 60784"
+4410000,3968,3,1,2,no,no,semi-furnished,"503 Howard Pass Apt. 427
+Fernandezborough, GA 02514"
+4410000,4900,2,1,2,no,no,semi-furnished,"2084 Carter Highway Suite 935
+New Stevenmouth, DE 67121"
+4403000,2880,3,1,2,no,no,semi-furnished,"2105 Lauren Radial
+Lake Michellestad, FL 92096-6812"
+4403000,4880,3,1,1,no,no,unfurnished,"3407 Preston Pine
+East Mark, NY 86626-3319"
+4403000,4920,3,1,2,no,no,semi-furnished,"719 Raymond Route
+West Diane, ME 60200-7803"
+4382000,4950,4,1,2,no,yes,semi-furnished,"310 Paul Mill Suite 863
+Pamelaland, AS 20202-1133"
+4375000,3900,3,1,2,no,no,unfurnished,"47705 Bethany Forge Suite 965
+North Heatherhaven, ND 10371"
+4340000,4500,3,2,3,yes,no,furnished,"791 Noble Port
+Michaelland, OK 69198"
+4340000,1905,5,1,2,no,no,semi-furnished,"143 Thomas Rapid Apt. 929
+West Laurieport, ND 69617"
+4340000,4075,3,1,1,no,no,semi-furnished,"690 Lozano Inlet
+Michelleville, AL 07048-6472"
+4340000,3500,4,1,2,no,no,furnished,"3591 Pham Spring Suite 077
+Lisaport, CT 43572"
+4340000,6450,4,1,2,no,no,semi-furnished,"Unit 9227 Box 8732
+DPO AE 73770"
+4319000,4032,2,1,1,no,no,furnished,"530 Johnson Circles
+Cathyborough, MN 30306"
+4305000,4400,2,1,1,no,no,semi-furnished,"029 Patricia Bridge Apt. 540
+Tranmouth, MP 59378-9231"
+4305000,10360,2,1,1,no,no,semi-furnished,"880 Julie Union Suite 360
+Sarahchester, LA 70074-3596"
+4277000,3400,3,1,2,no,no,semi-furnished,"85227 Kevin Stream Suite 299
+Lake Todd, WV 65286"
+4270000,6360,2,1,1,no,no,furnished,"97544 Williams Unions Suite 893
+South Harry, ME 21119"
+4270000,6360,2,1,2,no,no,unfurnished,"844 Hanson Points
+East Lisa, ME 83883"
+4270000,4500,2,1,1,no,yes,furnished,"171 Rocha Via
+Cassandrafort, RI 90064-6234"
+4270000,2175,3,1,2,no,yes,unfurnished,"2758 Joshua Mission
+Lake Chelsea, AS 18304-4644"
+4270000,4360,4,1,2,no,no,furnished,"75441 Ritter Corners
+North Roberttown, UT 52401-4300"
+4270000,7770,2,1,1,no,no,furnished,"7815 Burns Skyway Suite 637
+Melissaborough, TX 51087-6056"
+4235000,6650,3,1,2,no,no,semi-furnished,"885 Veronica Stravenue
+Wilsonland, FM 77249-8036"
+4235000,2787,3,1,1,no,no,furnished,"42822 Billy Lights
+Tranchester, TX 45052"
+4200000,5500,3,1,2,no,yes,unfurnished,"39474 Steven Fort Apt. 881
+Kristaport, OR 79397-4419"
+4200000,5040,3,1,2,no,yes,unfurnished,"030 Jason Coves Apt. 387
+Lake Christophershire, CA 88567"
+4200000,5850,2,1,1,no,no,semi-furnished,"Unit 2107 Box 1980
+DPO AA 76733"
+4200000,2610,4,3,2,no,no,semi-furnished,"111 Wilson Cape Suite 484
+Hernandezton, VI 53808"
+4200000,2953,3,1,2,no,yes,unfurnished,"720 Vasquez Crest
+Roberthaven, OK 57313"
+4200000,2747,4,2,2,no,no,semi-furnished,"518 Gilmore Stream Suite 013
+Lake Donald, ND 18581"
+4200000,4410,2,1,1,no,no,unfurnished,"126 Kim Mount Apt. 763
+Mariemouth, TN 60875"
+4200000,4000,4,2,2,no,no,semi-furnished,"43340 Thomas Mission Suite 671
+Longport, VT 28226"
+4200000,2325,3,1,2,no,no,semi-furnished,"38138 Carter Shores
+Lake Felicia, OK 96739-7550"
+4200000,4600,3,2,2,no,yes,semi-furnished,"569 Jeremy Orchard
+New Randy, RI 27359-4665"
+4200000,3640,3,2,2,no,no,unfurnished,"81623 Jenna Brook
+Davidfort, PR 76020"
+4200000,5800,3,1,1,yes,no,semi-furnished,"6548 Christopher Pike
+West Adammouth, NJ 07199"
+4200000,7000,3,1,1,no,no,furnished,"56449 Walters Forks
+Port Juliaburgh, DE 80081"
+4200000,4079,3,1,3,no,no,semi-furnished,"2172 Jensen Lodge
+Porterport, NJ 82686-8071"
+4200000,3520,3,1,2,no,no,semi-furnished,"20276 Kelsey Plains Apt. 162
+New Angiefort, DE 15768-7899"
+4200000,2145,3,1,3,no,no,unfurnished,"193 Green Causeway Suite 635
+Sotoburgh, NJ 15816-5656"
+4200000,4500,3,1,1,no,no,furnished,"222 Kevin Walks
+North Robertoton, FL 87877"
+4193000,8250,3,1,1,no,no,semi-furnished,"809 May Mills
+Yoderburgh, NH 42375-8927"
+4193000,3450,3,1,2,no,no,semi-furnished,"48635 Burch Pine
+Lake Ellen, KY 06268"
+4165000,4840,3,1,2,no,no,semi-furnished,"63891 Rebecca Stravenue Suite 746
+East Vincentland, NV 30237"
+4165000,4080,3,1,2,no,no,semi-furnished,"507 Dorsey Harbor Suite 445
+North Jacobbury, ID 07463"
+4165000,4046,3,1,2,no,no,semi-furnished,"475 Robert Road Apt. 547
+Charlotteburgh, CO 82148-4460"
+4130000,4632,4,1,2,no,yes,semi-furnished,"1249 Rodriguez Skyway
+East Laura, UT 81039"
+4130000,5985,3,1,1,no,no,semi-furnished,"9699 Gilbert Trail
+Port Marymouth, VT 17881"
+4123000,6060,2,1,1,no,no,semi-furnished,"3283 Wu Greens
+West Michelleton, AS 48620"
+4098500,3600,3,1,1,no,yes,furnished,"814 King Fords
+Ortizton, WY 09795"
+4095000,3680,3,2,2,no,no,semi-furnished,"003 Steven Port Apt. 012
+North Michaelbury, UT 27451-2671"
+4095000,4040,2,1,2,no,no,semi-furnished,"178 John Fork Apt. 779
+East James, VT 90132"
+4095000,5600,2,1,1,no,yes,semi-furnished,"USNS Fuentes
+FPO AE 40375"
+4060000,5900,4,2,2,no,no,unfurnished,"4458 Cabrera Plains Apt. 502
+Mezamouth, MP 58250"
+4060000,4992,3,2,2,no,no,unfurnished,"3167 George Knolls Apt. 993
+East Loriside, DC 16819-7638"
+4060000,4340,3,1,1,no,no,semi-furnished,"74367 Howard Cliff
+Antoniotown, CO 92048"
+4060000,3000,4,1,3,no,yes,semi-furnished,"9453 Kirk Summit Apt. 368
+North Lukechester, PA 24710"
+4060000,4320,3,1,2,no,no,furnished,"7958 Mills Lock Apt. 983
+Brandonville, DE 25191-2184"
+4025000,3630,3,2,2,yes,no,semi-furnished,"22588 Brian Forge Suite 588
+South Michelleside, NE 62469-4467"
+4025000,3460,3,2,1,no,yes,furnished,"53578 Rachel Estate Suite 891
+Daviesstad, MH 60772"
+4025000,5400,3,1,1,no,no,semi-furnished,"1981 Green Fall Suite 828
+West Kimberlyburgh, RI 99528"
+4007500,4500,3,1,2,no,yes,semi-furnished,"433 Patterson Parkways
+East Ryan, RI 32244-3823"
+4007500,3460,4,1,2,no,yes,semi-furnished,"90703 Isaac Path Apt. 296
+Lake Leonard, SC 34290-2341"
+3990000,4100,4,1,1,no,no,unfurnished,"258 Joshua Village Apt. 843
+Jamesborough, HI 72801-0033"
+3990000,6480,3,1,2,no,yes,semi-furnished,"3505 Smith Spring
+Lake Ashleyville, WY 32703-3550"
+3990000,4500,3,2,2,no,yes,semi-furnished,"78312 Martin Terrace Suite 957
+New Kimberly, ND 49455"
+3990000,3960,3,1,2,no,no,furnished,"8923 Theresa Corner
+New Annefort, KS 04537"
+3990000,4050,2,1,2,no,no,unfurnished,"648 Mark Green
+New Aaronberg, MD 57319-9128"
+3920000,7260,3,2,1,no,no,furnished,"4118 Gallagher Cliff Suite 158
+Lake Alejandrochester, MO 76400-5583"
+3920000,5500,4,1,2,no,no,semi-furnished,"23662 Tiffany Oval Apt. 301
+Stephanieburgh, NM 67091-0155"
+3920000,3000,3,1,2,no,no,semi-furnished,"6049 Jacqueline Centers
+Elizabethberg, WA 74545"
+3920000,3290,2,1,1,yes,no,furnished,"51952 Nelson Radial Apt. 701
+West Joshuafort, ID 09690-7341"
+3920000,3816,2,1,1,no,yes,furnished,"758 Chen Ramp
+North Angela, IL 06000"
+3920000,8080,3,1,1,no,yes,semi-furnished,"USNS Webb
+FPO AP 49097"
+3920000,2145,4,2,1,no,no,unfurnished,"672 Larson Ramp
+Robertside, NC 16903"
+3885000,3780,2,1,2,no,no,semi-furnished,"052 Robin Ridges Apt. 575
+West Shelbyshire, MN 47834"
+3885000,3180,4,2,2,no,no,furnished,"Unit 0180 Box 6419
+DPO AP 42418-5393"
+3850000,5300,5,2,2,no,no,semi-furnished,"3556 John Mountains Suite 339
+West Michael, KS 02710"
+3850000,3180,2,2,1,no,no,semi-furnished,"6925 Sherry Run
+Mcdonaldville, VT 76937"
+3850000,7152,3,1,2,no,yes,furnished,"5916 Wendy Lake Apt. 451
+Lake Julieborough, FL 94486"
+3850000,4080,2,1,1,no,no,semi-furnished,"7683 Susan Circles
+Jimenezview, ID 13223-8250"
+3850000,3850,2,1,1,no,no,semi-furnished,"7336 Joyce Street
+Ryanberg, OH 51245"
+3850000,2015,3,1,2,no,no,semi-furnished,"127 Sharp Well
+North Bernardbury, IA 84600"
+3850000,2176,2,1,2,no,no,semi-furnished,"Unit 1747 Box 4835
+DPO AE 80269"
+3836000,3350,3,1,2,no,no,unfurnished,"420 Miller Green Apt. 769
+Amyview, NH 15629-9831"
+3815000,3150,2,2,1,no,no,semi-furnished,"499 Mcintosh Parks
+Alexandraport, MN 57727"
+3780000,4820,3,1,2,no,no,semi-furnished,"004 Susan Lights Apt. 864
+Ericstad, SD 18478"
+3780000,3420,2,1,2,yes,no,semi-furnished,"38412 George Forge Apt. 680
+West Erika, MO 03932-3322"
+3780000,3600,2,1,1,no,no,semi-furnished,"8073 Miles Shores Apt. 760
+Garciamouth, AK 75136"
+3780000,5830,2,1,1,no,no,unfurnished,"1391 Kimberly Port
+Smithhaven, WA 19630"
+3780000,2856,3,1,3,no,no,furnished,"2763 Victoria Pine Apt. 066
+West Stephanie, OH 49110-6029"
+3780000,8400,2,1,1,no,no,furnished,"06882 Snyder Lake Suite 677
+East Tracy, VT 49709-4496"
+3773000,8250,3,1,1,no,no,furnished,"03567 Scott Fork
+West Lisahaven, ND 55466-3035"
+3773000,2520,5,2,1,no,yes,furnished,"9249 Robert Cliffs
+New Susan, AR 48038"
+3773000,6930,4,1,2,no,no,furnished,"Unit 5105 Box 8178
+DPO AP 03939"
+3745000,3480,2,1,1,no,no,semi-furnished,"931 Bradley Locks Apt. 730
+Justinborough, KY 10998-7603"
+3710000,3600,3,1,1,no,no,unfurnished,"7909 Freeman Plains Suite 223
+Griffithside, OR 90674"
+3710000,4040,2,1,1,no,no,semi-furnished,"4901 Michelle Estate Suite 734
+New Aimeemouth, MH 31261"
+3710000,6020,3,1,1,no,no,semi-furnished,"Unit 1395 Box 3341
+DPO AE 13371-5663"
+3710000,4050,2,1,1,no,no,furnished,"0831 Kathleen Mill
+North Connieside, TN 84541-4719"
+3710000,3584,2,1,1,yes,no,semi-furnished,"9491 Parrish Springs Suite 070
+Staceybury, OK 75939"
+3703000,3120,3,1,2,yes,no,semi-furnished,"631 Jessica Throughway Suite 879
+Elizabethfort, OR 35556-5686"
+3703000,5450,2,1,1,no,no,furnished,"3632 Lacey Course Suite 840
+Kelseyview, WY 57348-0308"
+3675000,3630,2,1,1,no,no,furnished,"559 David Mall Apt. 334
+Port Mark, MA 66518-9630"
+3675000,3630,2,1,1,no,yes,unfurnished,"59380 Jordan Forge Suite 680
+South Angela, OH 93823-2369"
+3675000,5640,2,1,1,no,no,semi-furnished,"914 Harry Bypass
+Mccannborough, FL 87366"
+3675000,3600,2,1,1,no,no,furnished,"USNV Williams
+FPO AA 55365-5477"
+3640000,4280,2,1,1,no,yes,semi-furnished,"408 Davis Lakes
+Arianaton, TN 06641"
+3640000,3570,3,1,2,no,no,semi-furnished,"91853 Ford Drive
+Princechester, PW 94622-8419"
+3640000,3180,3,1,2,no,no,semi-furnished,"196 Brian Village Suite 689
+Christensenland, NV 93801-8912"
+3640000,3000,2,1,2,no,yes,furnished,"8231 Douglas Pines
+Michaelbury, IN 40415"
+3640000,3520,2,2,1,no,no,semi-furnished,"08136 Sparks Common Suite 382
+West Rachaelville, MH 17135-7024"
+3640000,5960,3,1,2,no,no,unfurnished,"637 Jesse Mountain
+South Amanda, ME 03675-4416"
+3640000,4130,3,2,2,no,no,semi-furnished,"530 Anderson Mill Apt. 727
+South Brendaborough, OR 37626"
+3640000,2850,3,2,2,no,no,unfurnished,"7874 Reynolds Road
+Rileystad, WY 26189"
+3640000,2275,3,1,3,yes,yes,semi-furnished,"USNS Beard
+FPO AP 37680-7514"
+3633000,3520,3,1,1,no,no,unfurnished,"427 Melendez Court Suite 745
+South Misty, PW 59633-0548"
+3605000,4500,2,1,1,no,no,semi-furnished,"24016 Smith Crossroad
+West Sherryburgh, NV 03282"
+3605000,4000,2,1,1,no,no,semi-furnished,"7508 Alyssa Mission
+Mccartytown, AL 15250-4289"
+3570000,3150,3,1,2,no,no,furnished,"9596 Martinez Parks Apt. 781
+North Larryborough, AR 08957"
+3570000,4500,4,2,2,no,no,furnished,"55087 Debbie Place Suite 789
+Sarahburgh, WY 35157-7341"
+3570000,4500,2,1,1,no,no,furnished,"366 Nancy Lock Suite 459
+Grantland, FM 70532"
+3570000,3640,2,1,1,no,no,unfurnished,"029 Smith Plains
+Lindseyville, NV 06256-8392"
+3535000,3850,3,1,1,no,no,unfurnished,"USS Walker
+FPO AP 95931-9404"
+3500000,4240,3,1,2,no,yes,semi-furnished,"998 Munoz Terrace Suite 265
+Jacobstad, ND 61608"
+3500000,3650,3,1,2,no,no,unfurnished,"PSC 5629, Box 1683
+APO AA 30380-2875"
+3500000,4600,4,1,2,no,no,semi-furnished,"55849 Jenkins Walks Apt. 940
+Benderview, KS 44342"
+3500000,2135,3,2,2,no,no,unfurnished,"85930 Gardner Underpass Apt. 339
+North Mandytown, VT 93457"
+3500000,3036,3,1,2,no,no,semi-furnished,"31512 Karina Street
+Lake Aaron, UT 10919"
+3500000,3990,3,1,2,no,no,semi-furnished,"93436 Robin Greens
+Combsside, KY 24257-6372"
+3500000,7424,3,1,1,no,no,unfurnished,"2608 Penny Stream Suite 360
+New Brettport, WI 37004-4215"
+3500000,3480,3,1,1,no,yes,unfurnished,"1993 Gibson Freeway
+Lake Michael, WI 24423"
+3500000,3600,6,1,2,no,no,unfurnished,"54406 Matthew Ramp
+Travisshire, MI 61690-5478"
+3500000,3640,2,1,1,no,no,semi-furnished,"8077 David Isle Suite 263
+Rodneyborough, NJ 18874-5386"
+3500000,5900,2,1,1,no,no,furnished,"9573 Tina Rest Apt. 034
+Simstown, AR 51547"
+3500000,3120,3,1,2,no,no,unfurnished,"45153 Salas Hollow Apt. 148
+West Erica, SD 93725"
+3500000,7350,2,1,1,no,no,semi-furnished,"15057 Larsen Locks
+Mcmahonview, SC 51585-5774"
+3500000,3512,2,1,1,no,no,unfurnished,"08194 Shelby Overpass
+Gravesfurt, VT 41650-3581"
+3500000,9500,3,1,2,no,no,unfurnished,"9324 Miller Throughway Apt. 765
+Millsside, PA 86470-2619"
+3500000,5880,2,1,1,no,no,unfurnished,"00985 Michael Fields Suite 034
+Wandahaven, CO 62328"
+3500000,12944,3,1,1,no,no,unfurnished,"96627 Trujillo Via Apt. 159
+Connorville, DC 88114-9490"
+3493000,4900,3,1,2,no,no,unfurnished,"0091 Park Junction
+Port Leslie, AZ 49290"
+3465000,3060,3,1,1,no,no,unfurnished,"478 Charles Trail
+West Christopher, NH 85839"
+3465000,5320,2,1,1,no,no,unfurnished,"361 Stephen Burgs
+North Michaelview, AL 42767"
+3465000,2145,3,1,3,no,no,furnished,"278 Mccormick Brooks
+New Margaretland, NC 90315-1115"
+3430000,4000,2,1,1,no,no,unfurnished,"81773 Hunter Ridges Suite 347
+New Annstad, AK 53180-3670"
+3430000,3185,2,1,1,no,no,unfurnished,"566 Eric Ford
+Jasonmouth, CO 83797-1879"
+3430000,3850,3,1,1,no,no,unfurnished,"69659 Owens Path Apt. 651
+North Michael, FM 93545"
+3430000,2145,3,1,3,no,no,furnished,"842 Duane Brook Apt. 380
+Monicaview, AR 01639-3032"
+3430000,2610,3,1,2,no,no,unfurnished,"0302 Laurie Curve
+Johnnyfurt, SC 53321-7866"
+3430000,1950,3,2,2,no,no,unfurnished,"0022 Young Rest
+Lake Kevin, CA 25438-1821"
+3423000,4040,2,1,1,no,no,unfurnished,"7235 Tammy Islands
+Dawnfort, NM 54549"
+3395000,4785,3,1,2,no,yes,furnished,"668 Holloway Garden Apt. 481
+Richardberg, UT 70614-3350"
+3395000,3450,3,1,1,no,no,unfurnished,"778 Gomez Centers
+South Meagan, DE 82655-5020"
+3395000,3640,2,1,1,no,no,furnished,"2055 Rodriguez Light Suite 472
+South Davidview, TX 70637"
+3360000,3500,4,1,2,no,yes,unfurnished,"Unit 4693 Box 5974
+DPO AP 07885-8587"
+3360000,4960,4,1,3,no,no,semi-furnished,"PSC 3969, Box 0709
+APO AE 18919-6165"
+3360000,4120,2,1,2,no,no,unfurnished,"25551 Barrera Roads
+New Teresa, MI 82737-9223"
+3360000,4750,2,1,1,no,no,unfurnished,"12129 Felicia Ville Apt. 850
+West Jessica, MS 20172"
+3360000,3720,2,1,1,no,yes,unfurnished,"363 Frank Stream Apt. 529
+East Lucasmouth, KS 62133-6540"
+3360000,3750,3,1,1,no,no,unfurnished,"6182 Hannah Locks Apt. 664
+Emilyside, PA 31748"
+3360000,3100,3,1,2,no,no,semi-furnished,"8947 Allen Stravenue Suite 234
+East Alexandraburgh, NM 55053-2423"
+3360000,3185,2,1,1,no,no,furnished,"855 Carol Burgs
+Frazierchester, MS 46812-0037"
+3353000,2700,3,1,1,no,no,furnished,"595 Daniel Manors
+Jamesstad, CO 07651"
+3332000,2145,3,1,2,no,no,furnished,"73634 Mcintyre Pass
+Tammyside, AL 76708-8615"
+3325000,4040,2,1,1,no,no,unfurnished,"35841 Christine Shore
+Wallmouth, NC 98956-5357"
+3325000,4775,4,1,2,no,no,unfurnished,"59942 David Brook Suite 114
+East John, DC 09236-7627"
+3290000,2500,2,1,1,no,yes,unfurnished,"817 Barbara Ville Apt. 469
+Port Mary, CT 03068"
+3290000,3180,4,1,2,no,yes,unfurnished,"514 Martin Ford
+Smithmouth, OR 69870"
+3290000,6060,3,1,1,no,no,furnished,"073 Martinez Neck Suite 992
+North Sara, MA 27515"
+3290000,3480,4,1,2,no,no,semi-furnished,"5035 Daniel Port Suite 074
+Port Jordanbury, SC 46334-0480"
+3290000,3792,4,1,2,no,no,semi-furnished,"9758 James Stream
+Port Bryanview, ID 99846-0784"
+3290000,4040,2,1,1,no,no,unfurnished,"247 Betty Mall Suite 117
+North Samantha, DE 69390"
+3290000,2145,3,1,2,no,no,furnished,"138 Coleman Parks
+West Travis, PW 22854"
+3290000,5880,3,1,1,no,no,unfurnished,"5460 Shawna Throughway
+Lake Jermaine, MS 94725"
+3255000,4500,2,1,1,no,no,semi-furnished,"9222 Gross Cove
+Lake Davidshire, CT 71099"
+3255000,3930,2,1,1,no,no,unfurnished,"32536 Brown Square Apt. 331
+Thomastown, AK 08587-4493"
+3234000,3640,4,1,2,no,no,unfurnished,"99806 Darren Mount Suite 505
+Dawnborough, NH 07786-7190"
+3220000,4370,3,1,2,no,no,unfurnished,"Unit 5439 Box 2269
+DPO AE 18066-3647"
+3220000,2684,2,1,1,no,yes,unfurnished,"988 Moore Underpass Suite 690
+New Elizabethburgh, AZ 76937-4021"
+3220000,4320,3,1,1,no,no,unfurnished,"4078 Christine Passage Apt. 095
+South Ethanland, WA 16373"
+3220000,3120,3,1,2,no,no,furnished,"006 Miller Orchard Suite 211
+Port Louis, WY 09440"
+3150000,3450,1,1,1,no,no,furnished,"06207 Dean Parkways Suite 455
+Lake Haileyfort, MI 73004"
+3150000,3986,2,2,1,no,no,unfurnished,"7652 Nicole Extension Suite 206
+Lake Angela, KY 89831-0175"
+3150000,3500,2,1,1,no,no,semi-furnished,"2220 Sullivan Shoal Apt. 664
+New Gabriel, UT 12666-0446"
+3150000,4095,2,1,1,no,no,semi-furnished,"8220 Cindy Land
+Brownland, MA 40384"
+3150000,1650,3,1,2,no,no,unfurnished,"653 Amy Ports Suite 817
+Lake Calebstad, TX 33969-7942"
+3150000,3450,3,1,2,no,no,semi-furnished,"4542 Sanchez Stream
+New Steven, IN 42368-9011"
+3150000,6750,2,1,1,no,no,semi-furnished,"4037 Wolfe Mount
+Alexanderburgh, TN 66040-2962"
+3150000,9000,3,1,2,no,no,semi-furnished,"40592 Joanne Meadow
+Lake Ericshire, MS 82383-5094"
+3150000,3069,2,1,1,no,no,unfurnished,"20215 Chase Groves
+New Frank, IA 76417-4251"
+3143000,4500,3,1,2,no,yes,unfurnished,"553 Debra Corner Apt. 716
+North Douglasland, OR 61608-7223"
+3129000,5495,3,1,1,no,no,unfurnished,"62937 Katherine Roads Suite 190
+New Richardmouth, ID 32823"
+3118850,2398,3,1,1,no,no,semi-furnished,"882 Carrie Drives Suite 866
+Heidihaven, VT 22098"
+3115000,3000,3,1,1,no,yes,unfurnished,"9111 Amy Landing
+Port Andrewbury, PA 60420"
+3115000,3850,3,1,2,no,no,unfurnished,"495 Weaver Skyway
+Jenniferport, OR 77808-5741"
+3115000,3500,2,1,1,no,no,unfurnished,"43128 Kevin Lane Suite 880
+Lake Brookeborough, MI 16269-0938"
+3087000,8100,2,1,1,no,no,unfurnished,"57811 Crystal Road Apt. 465
+New Courtney, MS 95601"
+3080000,4960,2,1,1,no,yes,unfurnished,"03124 Jessica Prairie
+Lake Edward, DC 65069-7385"
+3080000,2160,3,1,2,no,no,semi-furnished,"06369 Amanda Way
+Lake Thomaschester, MP 71633-2350"
+3080000,3090,2,1,1,no,no,unfurnished,"71104 Cross Path
+Sandramouth, NY 69229"
+3080000,4500,2,1,2,yes,no,semi-furnished,"605 Collins Islands
+North Elizabeth, TN 76959"
+3045000,3800,2,1,1,no,no,unfurnished,"USNS Vargas
+FPO AE 56319-6904"
+3010000,3090,3,1,2,no,no,semi-furnished,"8584 Darrell Groves
+Bennettberg, SD 72404-6826"
+3010000,3240,3,1,2,no,no,semi-furnished,"7200 Tammy Place Apt. 727
+Morenoland, DE 51392"
+3010000,2835,2,1,1,no,no,semi-furnished,"93435 Grace Oval
+Pamelaland, NE 21006-4512"
+3010000,4600,2,1,1,no,no,furnished,"PSC 4610, Box 2354
+APO AP 02895-8370"
+3010000,5076,3,1,1,no,no,unfurnished,"812 Munoz Fords Apt. 233
+New Kelly, IA 54531"
+3010000,3750,3,1,2,no,no,unfurnished,"7892 Ross Garden
+South Keith, NC 32349"
+3010000,3630,4,1,2,no,no,semi-furnished,"606 Mejia Land Apt. 238
+Brittanyside, NY 78170-7389"
+3003000,8050,2,1,1,no,no,unfurnished,"31143 Wendy Overpass Suite 905
+Robinsonmouth, NY 94261-0324"
+2975000,4352,4,1,2,no,no,unfurnished,"2430 Samuel Stravenue
+Port Williamtown, NM 37798-8316"
+2961000,3000,2,1,2,no,no,semi-furnished,"09328 Jacqueline Roads
+Andersonport, VT 62322"
+2940000,5850,3,1,2,no,no,unfurnished,"125 Jesse Spring
+New Benjaminberg, NY 16741"
+2940000,4960,2,1,1,no,no,unfurnished,"359 Davidson Ports Apt. 177
+Andreaport, MD 43672"
+2940000,3600,3,1,2,no,no,unfurnished,"7708 Hays Spurs Suite 994
+Port Jasonport, TX 65571-9046"
+2940000,3660,4,1,2,no,no,unfurnished,"67217 Andrew Bypass
+East Jonathan, KS 49221-7797"
+2940000,3480,3,1,2,no,no,semi-furnished,"329 Lee Mountains Apt. 592
+West James, NJ 36320-9547"
+2940000,2700,2,1,1,no,no,furnished,"76805 Soto Avenue
+Masonburgh, PW 85098-2368"
+2940000,3150,3,1,2,no,no,unfurnished,"PSC 4275, Box 9478
+APO AP 64444-8885"
+2940000,6615,3,1,2,no,no,semi-furnished,"6484 Kayla Mall
+West Isaacburgh, MO 37193-8366"
+2870000,3040,2,1,1,no,no,unfurnished,"0551 Crystal Trafficway Apt. 141
+Richardhaven, MT 91357"
+2870000,3630,2,1,1,no,no,unfurnished,"9627 Maria Forks Suite 794
+Davisberg, NE 50806-5808"
+2870000,6000,2,1,1,no,no,semi-furnished,"72754 Nguyen Extension Apt. 174
+Woodland, PR 57096"
+2870000,5400,4,1,2,no,no,unfurnished,"0155 Julie Club
+Andrewberg, KS 37344"
+2852500,5200,4,1,3,no,no,unfurnished,"71010 Parker Mountain Apt. 263
+Carterburgh, GU 54230-0036"
+2835000,3300,3,1,2,no,no,semi-furnished,"9282 Campbell Glen
+East Patricia, MO 95742"
+2835000,4350,3,1,2,yes,no,unfurnished,"8863 Christine Extensions
+Port Suechester, MN 59441"
+2835000,2640,2,1,1,no,no,furnished,"76135 Shannon View Apt. 267
+New Michaelland, PA 52372"
+2800000,2650,3,1,2,no,no,unfurnished,"52319 Derek Ports
+Buckleyton, AL 80725"
+2800000,3960,3,1,1,no,no,furnished,"260 Samantha Mountains
+Charlesbury, NH 59219"
+2730000,6800,2,1,1,no,no,unfurnished,"52228 Debbie Lane
+New Davidtown, VT 50549"
+2730000,4000,3,1,2,no,no,unfurnished,"71654 Brown Summit Suite 194
+Bonillaberg, VT 79693-8592"
+2695000,4000,2,1,1,no,no,unfurnished,"9835 Kimberly Street Suite 318
+Murphyview, ND 81320-7591"
+2660000,3934,2,1,1,no,no,unfurnished,"9117 Abigail Island
+West Thomas, ID 72774-3622"
+2660000,2000,2,1,2,no,no,semi-furnished,"272 King Mountain Suite 538
+New Jennifer, NC 65688"
+2660000,3630,3,3,2,no,no,unfurnished,"723 Kimberly Common Suite 520
+East Nicholashaven, UT 70709"
+2660000,2800,3,1,1,no,no,unfurnished,"610 Thomas Way
+Martinhaven, TN 31117"
+2660000,2430,3,1,1,no,no,unfurnished,"0121 Dana Isle
+Lake Kathrynside, OR 02802-5932"
+2660000,3480,2,1,1,no,no,semi-furnished,"PSC 8841, Box 4711
+APO AA 80496-2707"
+2660000,4000,3,1,1,no,no,semi-furnished,"7426 James Lights Suite 255
+Lake Corey, MP 92475-3283"
+2653000,3185,2,1,1,no,yes,unfurnished,"36939 Christopher Common Apt. 022
+Ruizburgh, ND 80482-2594"
+2653000,4000,3,1,2,no,yes,unfurnished,"474 Anthony Freeway
+Port Sharon, AZ 72803"
+2604000,2910,2,1,1,no,no,unfurnished,"294 Hunter Pike
+West Terri, PR 55185-6417"
+2590000,3600,2,1,1,no,no,unfurnished,"5697 Lisa Springs Apt. 927
+East Nancyport, HI 76955-3187"
+2590000,4400,2,1,1,no,no,unfurnished,"0928 Ritter Manor
+Johntown, DC 55876-9213"
+2590000,3600,2,2,2,no,no,furnished,"PSC 9187, Box 6463
+APO AE 06624"
+2520000,2880,3,1,1,no,no,unfurnished,"376 Jennifer Orchard
+Sandraside, PR 21095-8831"
+2520000,3180,3,1,1,no,no,unfurnished,"3605 Kathleen Crescent
+South Gary, AL 74671-9718"
+2520000,3000,2,1,2,no,no,furnished,"09057 Garrett Prairie Suite 802
+Lake Leahland, ND 40383-6632"
+2485000,4400,3,1,2,no,no,unfurnished,"USS Hayes
+FPO AE 34089-4213"
+2485000,3000,3,1,2,no,no,semi-furnished,"606 Williams Hollow Suite 289
+South Travisport, NV 63358"
+2450000,3210,3,1,2,no,no,unfurnished,"77662 Francis Vista Suite 479
+East Johnshire, GU 21880"
+2450000,3240,2,1,1,no,no,unfurnished,"597 Amanda Skyway Suite 015
+Johnberg, KS 46247"
+2450000,3000,2,1,1,no,no,unfurnished,"377 Kyle Vista
+North Laurieberg, WV 02838-1280"
+2450000,3500,2,1,1,no,no,unfurnished,"26853 Brown Ferry
+Normastad, OH 05696"
+2450000,4840,2,1,2,no,no,unfurnished,"7311 Andrew Coves Suite 377
+New Rhondastad, NH 31943-6491"
+2450000,7700,2,1,1,no,no,unfurnished,"025 Taylor Point
+New Kayla, CO 57215-1414"
+2408000,3635,2,1,1,no,no,unfurnished,"55447 Ryan Path Apt. 201
+Robinhaven, PW 29113-4769"
+2380000,2475,3,1,2,no,no,furnished,"50776 Harris Stream
+Elizabethton, SD 61391"
+2380000,2787,4,2,2,no,no,furnished,"226 Jennifer Isle
+Millerville, AS 59657"
+2380000,3264,2,1,1,no,no,unfurnished,"5037 Peterson Unions
+South Robertstad, CO 27533"
+2345000,3640,2,1,1,no,no,unfurnished,"3894 Dunn Crossroad Apt. 849
+New Benjamintown, IA 04280"
+2310000,3180,2,1,1,no,no,unfurnished,"640 Carlson Tunnel
+Port Jimmyhaven, NC 48866"
+2275000,1836,2,1,1,no,no,semi-furnished,"08575 Kristen Circles
+East Lisastad, PA 42221-4091"
+2275000,3970,1,1,1,no,no,unfurnished,"505 Adams Walk Suite 510
+Aarontown, LA 91877"
+2275000,3970,3,1,2,no,no,unfurnished,"8155 Danielle Circles
+New Sherimouth, OR 62430"
+2240000,1950,3,1,1,yes,no,unfurnished,"523 Paula Drive
+West Iantown, NV 50432"
+2233000,5300,3,1,1,no,yes,unfurnished,"8689 Nathan Cape Suite 323
+Davidshire, AR 24822"
+2135000,3000,2,1,1,no,no,unfurnished,"97852 Julie Ridge
+Colemanborough, NC 47602-0807"
+2100000,2400,3,1,2,no,no,unfurnished,"40588 Kristi Divide Suite 657
+Valerietown, VA 96820-3267"
+2100000,3000,4,1,2,no,no,unfurnished,"9702 Stephanie Street Suite 051
+New Courtneyhaven, AZ 93784-4192"
+2100000,3360,2,1,1,no,no,unfurnished,"889 Michael Springs Apt. 647
+South Thomasburgh, MH 33971"
+1960000,3420,5,1,2,no,no,unfurnished,"080 Coleman Park
+Craigburgh, AS 18489"
+1890000,1700,3,1,2,no,no,unfurnished,"4126 Walker Meadows
+Lake Derrickton, MD 06453-1751"
+1890000,3649,2,1,1,no,no,unfurnished,"5142 Bond Rapids
+Spencerhaven, NE 03017"
+1855000,2990,2,1,1,no,no,unfurnished,"42039 Ashley Extension
+Elizabethhaven, WY 73367"
+1820000,3000,2,1,1,no,no,unfurnished,"5577 Merritt Drive
+North Brookeside, VA 14645-3679"
+1767150,2400,3,1,1,no,no,semi-furnished,"USNV Guerrero
+FPO AE 55568"
+1750000,3620,2,1,1,no,no,unfurnished,"042 Miller Expressway Suite 049
+South Breannaborough, VI 77689"
+1750000,2910,3,1,1,no,no,furnished,"5327 Jack Fords
+East Benjaminport, AS 22091-8691"
+1750000,3850,3,1,2,no,no,unfurnished,"76952 Powell Road
+Scottland, WA 13076-2686"
