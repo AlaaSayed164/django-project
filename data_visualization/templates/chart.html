@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>House price visualization</title>
+    <style>
+        nav a {
+            /* margin-right: 20; */
+            float: right;
+            text-decoration: none;
+            color: rgb(3, 39, 117);
+            padding: 10px 20px;
+            border: 1px solid rgb(3, 39, 117);
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+        nav a:hover {
+            /* margin-right: 20; */
+            float: right;
+            background-color: rgb(3, 39, 117);
+            color: white;
+        }
+       
+    </style>
+</head>
+<body>
+    <nav>
+            <a href="{% url 'home' %}">Home</a>
+            <a href="{% url 'predict_page' %}">Prediction Model</a>
+    </nav>
+    <br><br>  
+    <h1 style="background-color:antiquewhite;  color: rgb(3, 39, 117); text-align: center; font-size: 50px;">Data Visualization of House Price Dataset</h1>
+
+
+    <div class="chart-container">
+        <div style=" display: flex; border: 2px solid rgb(255, 255, 255); margin-left: 50px;">
+            {{ graph1|safe }} 
+            {{ graph2|safe }}
+        </div>
+
+        <div style=" display: flex; border: 2px solid rgb(255, 255, 255);  margin-left: 50px;">
+            {{ graph3|safe }}
+            {{ graph4|safe }}
+        </div>
+
+    </div>
+</body>
+</html>
