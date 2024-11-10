@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>House Price Prediction</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Arial', sans-serif;
+        }
+        body {
+            background: linear-gradient(135deg, #ffa726, #ffcc80);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-size: cover;
+            padding: 20px;
+            position: relative;
+        }
+        .form-container {
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 500px;
+            opacity: 0.95;
+        }
+        h3 {
+            text-align: center;
+            color: #333;
+            font-size: 40px;
+            margin-bottom: 15px;
+        }
+        h5 {
+            text-align: center;
+            color: #666;
+            font-size: 20px;
+            margin-bottom: 15px;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        label {
+            display: block;
+            font-size: 16px; /* Adjusted label size */
+            margin-bottom: 5px;
+            color: #333;
+        }
+        input, select {
+            width: 100%;
+            padding: 10px; /* Reduced input padding */
+            font-size: 16px; /* Adjusted input size */
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            transition: all 0.3s ease;
+        }
+        input:focus, select:focus {
+            border-color: #ff9800;
+            outline: none;
+            box-shadow: 0 0 5px rgba(255, 152, 0, 0.5);
+        }
+        .btn-submit {
+            width: 100%;
+            padding: 12px;
+            background-color: #ff9800;
+            color: white;
+            font-size: 16px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        .btn-submit:hover {
+            background-color: #e68a00;
+        }
+        .predicted-price {
+            margin-top: 20px;
+            text-align: center;
+            font-size: 20px;
+            color: #333;
+        }
+        /* Added home button */
+        nav {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            width: 90px;
+            height: 50px;
+           
+        }
+        nav a {
+            /* margin-right: 20; */
+            float: right;
+            text-decoration: none;
+            color: rgb(3, 39, 117);
+            padding:20px;
+            border: 1px solid rgb(3, 39, 117);
+            border-radius: 5px;
+            transition: background-color 0.3s;
+            width: 200px;
+            height: 60px;
+            text-align: center;
+
+        }
+        nav a:hover {
+            /* margin-right: 20; */
+            float: right;
+            background-color: rgb(3, 39, 117);
+            color: white;
+            width: 200px;
+            height: 60px;
+            text-align: center;
+            padding:20px;
+        }
+        @media screen and (max-width: 600px) {
+            .form-container {
+                padding: 20px;
+            }
+            h3 {
+                font-size: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="{% url 'home' %}">Home</a> <!-- Home button -->
+    </nav>
+    
+    <div class="form-container">
+        <h3>House Price Prediction</h3>
+        <h5>Fill in the details to predict the price</h5>
+        <form method="POST">
+            {% csrf_token %}
+            <div class="form-group">
+                <label>Average Area of House (sq ft):</label>
+                <input type="text" name="area" value="{{ area }}" required placeholder="Enter area in sq ft">
+            </div>
+            <div class="form-group">
+                <label>Number of Bedrooms:</label>
+                <input type="text" name="bedrooms" value="{{ bedrooms }}" required placeholder="Enter number of bedrooms">
+            </div>
+            <div class="form-group">
+                <label>Number of Bathrooms:</label>
+                <input type="text" name="bathrooms" value="{{ bathrooms }}" required placeholder="Enter number of bathrooms">
+            </div>
+            <div class="form-group">
+                <label>House Age (years):</label>
+                <input type="text" name="house_age" value="{{ house_age }}" required placeholder="Enter house age in years">
+            </div>
+            <div class="form-group">
+                <label>Hot Water Heating:</label>
+                <select name="hotwaterheating">
+                    <option value="yes" {% if hotwaterheating == 'yes' %}selected{% endif %}>Yes</option>
+                    <option value="no" {% if hotwaterheating == 'no' %}selected{% endif %}>No</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label>Central Air:</label>
+                <select name="central_air">
+                    <option value="yes" {% if central_air == 'yes' %}selected{% endif %}>Yes</option>
+                    <option value="no" {% if central_air == 'no' %}selected{% endif %}>No</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label>Furnishing Status:</label>
+                <select name="furnishingstatus">
+                    <option value="furnished" {% if furnishingstatus == 'furnished' %}selected{% endif %}>Furnished</option>
+                    <option value="semi-furnished" {% if furnishingstatus == 'semi-furnished' %}selected{% endif %}>Semi-furnished</option>
+                    <option value="unfurnished" {% if furnishingstatus == 'unfurnished' %}selected{% endif %}>Unfurnished</option>
+                </select>
+            </div>
+            <button type="submit" class="btn-submit">Predict</button>
+        </form>
+        {% if predicted_price %}
+            <div class="predicted-price">
+                <h4>Predicted House Price: {{ predicted_price }}</h4>
+            </div>
+        {% endif %}
+    </div>
+</body>
+</html>
