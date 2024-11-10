@@ -30,3 +30,5 @@ You will find the Home Page, where you can choose between two options:
   
   Visualization: This button opens a page displaying charts based on the dataset.
   ![image](https://github.com/user-attachments/assets/7ba9a529-c52f-40e2-b41e-3f3b98ad1d6f)
+
+If YOU WOULD LIKE TO MOVE FOR HOW WE CREATE THIS PROJECT YOU CAN VISIT THIS LINK :https://docs.google.com/presentation/d/1DLbfWAokhSvyx_EXZ1bR6zrT5QVkjyRmfDAu73MrM6U/edit?usp=sharing 
